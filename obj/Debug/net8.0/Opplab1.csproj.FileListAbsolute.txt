@@ -1,0 +1,14 @@
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\Opplab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\Opplab1.AssemblyInfoInputs.cache
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\Opplab1.AssemblyInfo.cs
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\Opplab1.csproj.CoreCompileInputs.cache
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\bin\Debug\net8.0\Opplab1.exe
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\bin\Debug\net8.0\Opplab1.deps.json
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\bin\Debug\net8.0\Opplab1.runtimeconfig.json
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\bin\Debug\net8.0\Opplab1.dll
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\bin\Debug\net8.0\Opplab1.pdb
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\Opplab1.dll
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\refint\Opplab1.dll
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\Opplab1.pdb
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\Opplab1.genruntimeconfig.cache
+D:\c#\steps\OOP\day1\assignment\Opplab1\Opplab1\obj\Debug\net8.0\ref\Opplab1.dll
